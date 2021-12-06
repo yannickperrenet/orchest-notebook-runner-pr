@@ -1,0 +1,69 @@
+{
+    "name": "Main",
+    "parameters": {},
+    "settings": {
+        "auto_eviction": false,
+        "data_passing_memory_size": "1GB"
+    },
+    "steps": {
+        "601b74b7-5347-4344-af69-505e55400f75": {
+            "environment": "9c14c977-d5be-4c67-a26c-921f63e0eae3",
+            "file_path": "rtest.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "R",
+                "name": "r"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    94,
+                    379.5
+                ]
+            },
+            "parameters": {},
+            "title": "R",
+            "uuid": "601b74b7-5347-4344-af69-505e55400f75"
+        },
+        "bf5e1168-922a-411d-850a-13db8a0d1b96": {
+            "environment": "5cb14c0e-0bf2-4e70-a24a-b90cd6318b98",
+            "file_path": "script.py",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    212,
+                    242.5
+                ]
+            },
+            "parameters": {},
+            "title": "script test",
+            "uuid": "bf5e1168-922a-411d-850a-13db8a0d1b96"
+        },
+        "ffdcf9f8-1cf2-46f3-b8d5-55273b658f3f": {
+            "environment": "5cb14c0e-0bf2-4e70-a24a-b90cd6318b98",
+            "file_path": "test.ipynb",
+            "incoming_connections": [],
+            "kernel": {
+                "display_name": "Python 3",
+                "name": "python"
+            },
+            "meta_data": {
+                "hidden": false,
+                "position": [
+                    97,
+                    106.5
+                ]
+            },
+            "parameters": {},
+            "title": "test",
+            "uuid": "ffdcf9f8-1cf2-46f3-b8d5-55273b658f3f"
+        }
+    },
+    "uuid": "149666eb-d7ad-45bb-8817-c64aed4059b8",
+    "version": "1.0.0"
+}
